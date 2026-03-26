@@ -12,9 +12,17 @@ public class main {
         sun.color="pink";
         sun.temp="3456k";
 
+
         planet1 reex= new planet1();
         reex.color="red";
         reex.temp="33330000000000000000000000000000k";
+
+        planet2 princess=new planet2();
+        princess.color="green";
+        princess.temp="4000000000000000k";
+        
+
+
 
     }
 
