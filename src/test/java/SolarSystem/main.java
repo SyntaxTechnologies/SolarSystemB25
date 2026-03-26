@@ -12,6 +12,12 @@ public class main {
         sun.color="pink";
         sun.temp="3456k";
 
+        planet2 princess=new planet2();
+        princess.color="green";
+        princess.temp="4000000000000000k";
+        
+
+
     }
 
 }
