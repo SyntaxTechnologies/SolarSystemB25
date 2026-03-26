@@ -7,6 +7,11 @@ public class main {
         solar.moon="2";
         solar.planets="2";
         solar.Sun="1";
+
+        featureSun sun=new featureSun();
+        sun.color="pink";
+        sun.temp="3456k";
+
     }
 
 }
